@@ -31,7 +31,7 @@ Aplicación full stack para la planificación de comidas y gestión de inventari
 🔗 https://github.com/lincetic/home-meal-planning-system
 
 ---
-### LCTER WC Points Loyalty
+### 🔹 LCTER WC Points Loyalty
 Sistema de puntos de fidelización y canje de recompensas configurable de WooCommerce.
 
 - Los clientes acumulan puntos en base a sus compras realizadas en WooCommerce.
@@ -44,10 +44,10 @@ Sistema de puntos de fidelización y canje de recompensas configurable de WooCom
 - Al iniciar el sistema, se puede agregar un saldo inicial a todos los clientes.
   
 👉 Proyecto orientado a gestionar un sistema  de puntos de fidelizacion para tiendas online desarrolladas con WordPress + Woocommerce  
-🔗 https://github.com/lincetic/raffle_tickets](https://github.com/lincetic/lcter-wc-points-loyalty
+🔗 https://github.com/lincetic/lcter-wc-points-loyalty
 
 ---
-### LCTER WC Pack
+### 🎁 LCTER WC Pack
 Plugin personalizado para WooCommerce que permite crear productos del tipo "Pack" configurables y personalizables.
 
 - Añade un nuevo tipo de producto Pack a WooCommerce.
@@ -60,7 +60,7 @@ Plugin personalizado para WooCommerce que permite crear productos del tipo "Pack
 - Compatible con la funcionalidad de carrito de WooCommerce.
   
 👉 Proyecto orientado a crear packs por lotes de unidad para tiendas online desarrolladas con WordPress + Woocommerce  
-🔗 https://github.com/lincetic/raffle_tickets](https://github.com/lincetic/lcter-wc-pack
+🔗 https://github.com/lincetic/lcter-wc-pack
 
 ---
 ### 🎟️ Raffle Tickets Generator
